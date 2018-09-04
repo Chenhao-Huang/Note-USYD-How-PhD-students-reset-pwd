@@ -1,4 +1,4 @@
-#How PhD students in USYD change the password?
+# How PhD students in USYD change the password?
 
 ## Change the password
 Go to the link: https://www.auth.usyd.edu.au/extro/passwd/
