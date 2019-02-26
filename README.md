@@ -10,3 +10,6 @@ Go to the link: https://www.auth.usyd.edu.au/extro/pwresync/
 ## Printer Service
 Go to the credential manager to reset the password for printer, etc.\
 Search for "Credential Manager" in windows.
+
+## Re-set email service
+stmp server for uni email service is smtp.office365.com.
